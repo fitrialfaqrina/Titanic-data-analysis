@@ -31,3 +31,21 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 - Titanic data using Python
 - Know how to analyze dat in graphical form
 - Conclusion from the results of the titanic data analysis
+
+## Data understanding
+- Dataset of the Titanic shipwreck was a massive disaster to know the number of survivors and their details.
+- Source data : Online dataset by kaggle, Titanic.csv
+- The dataset has 12 columns and 891 rows
+### Data Dictionary
+- PassengerId : Number of passenger
+- Survived : Outcome of survival (0 = No; 1 = Yes)
+- Pclass : Socio-economic class (1 = Upper; 2 = Middle; 3 = Lower)
+- Name : Full name of passenger
+- Sex : Sex of passenger (Male or Female)
+- Age : Age of passenger
+- SibSp : Number of siblings and spouses of passenger aboard
+- Parch : Number of parents and children of passenger aboard
+- Ticket : Ticket number of passenger
+- Fare : Fare paid by the passenger
+- Cabin : Cabin number of the passenger
+- Embarked : Part of embarkation of the passenger (C = Cherbourg; Q = Queenstown; S = Southampton)
